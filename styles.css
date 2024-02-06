@@ -105,21 +105,44 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    height: 720px;
 }
 
 .services-container{
-    height: 300px;
+    height: 400px;
     width: 1080px;
     background-color: #F9FAF8;
     display: flex;
     justify-content: center;
     align-items: center;
+    
+}
+
+.services-header{
+    font-size: 36px;
+    font-weight: bolder;
+    columns: #1F2937;
 }
 
 .box{
+    width: 500px;
+    height: 500px;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.service{
     width: 250px;
     height: 250px;
     background-color: #1F2937;
-    margin: 0 10px;
     border-radius: 25px;
+}
+
+.service-text{
+    width: 250px;
+    margin-top: 10px;
+    text-align: center;
 }
