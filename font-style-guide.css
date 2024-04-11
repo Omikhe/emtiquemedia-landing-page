@@ -11,20 +11,20 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.545rem;
   font-weight: bold;
   line-height: 1.2;
 }
 
 h3 {
-  font-size: 1.8rem;
+  font-size: 0.956rem;
   font-weight: bold;
   line-height: 1.2;
 }
 
 /* Body Copy */
 .body-copy {
-  font-size: 1rem;
+  font-size: 0.956rem;
   line-height: 1.6;
 }
 
